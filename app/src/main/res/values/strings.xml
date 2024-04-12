@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="travel_photo_app">Travel Photo App</string>
+    <string name="image0">INDIA GATE</string>
+    <string name="india_gate">INDIA GATE</string>
+    <string name="about_haat">An exciting open-air arcade, Dilli Haat is a notable Tourist Places in Delhi worth visiting. A great place to hang out with friends or family, you can enjoy sumptuous treats from various regions across the country and shop for their handicrafts speciality as well.</string>
+    <string name="about_Temple">Built not long back, Swaminarayan Akshardham Temple is the largest Hindu temple and one of the most gorgeous Delhi Sightseeing Places. Constructed in pink stone and marble, it is indeed one of the Best Places in Delhi for Family tours. For those who wish to visit the night show, the Akshardham Temple is one of the beautiful tourist places in Delhi to visit at night.</string>
+    <string name="about_place">A heaven for shoppers, Connaught Place is one of the most popular Tourist Places in Delhi known for its unique concentric circle’s design and uncountable boutique shops, restaurants, Resorts in Delhi, street markets like Janpath and Palika Bazaar.</string>
+    <string name="about_Guru">A highly popular religious site visited not just by the Sikh community but the masses, it is both a peaceful spiritual abode and a famous Delhi Tourist Attraction. Built-in 1783 by a Sikh general Baghel Singh, the gurudwara complex consists of a lovely Sarovar, a school, hospital museum and a library as well. This peaceful tourist place is a must visit tourist place near Delhi.</string>
+    <string name="about_India">Defining India, this monument which was erected in 1931 is one of the best Delhi Tourist Attractions and serves as a revered memorial for the martyrs from the World War I and Afghanistan war. Looking its best in the night, lined with beautiful lights, it is one site that is also highly frequented by the locals. India gate is one of the most beautiful places to visit in Delhi at night</string>
+    <string name="about_Qutub">This mysterious monument, again from the Mughal era, is yet another splendid Places to Visit in Delhi. It was built by Qutub-ud-din-Aibak, hence the name and stands 73 m tall. This unique five-storied brick minaret is beautifully carved and engraved with scriptures. . The Qutub Minar is one of the most recommended places to visit in Delhi.</string>
+    <string name="textview">TextView</string>
+
+</resources>
